@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">poiskFilmOff</string>
+    <string name="disclaimer">Картинки взяты с pexels.com</string>
+    <string name="Button">Кнопка</string>
 </resources>
